@@ -11,7 +11,8 @@
     background-image: url("../img/Menu.svg")
 }
 
-.cabecalho-menu{
+
+.container-menu{
     display: none;
     position: absolute;
     top: 100%;
