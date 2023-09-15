@@ -10,3 +10,13 @@ body{
     background-color: var(--cor-de-fundo);
 
 }
+:root {
+    --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
+    --azul-degrade: #326589;
+    --laranja: #EB9B00;
+    }
+    
+    body {
+    background-color: var(--cor-de-fundo);
+    }
