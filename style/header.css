@@ -53,7 +53,7 @@ color: var(--azul-degrade);
 .container-botao{
     display: none;
 }
-.cabecalho-titulo-negrito{
+.container-titulo-negrito{
     font-weight: 700;
 }
 
