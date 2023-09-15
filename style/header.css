@@ -50,6 +50,14 @@ text-decoration: none;
 color: var(--azul-degrade);
 }
 
+.container-botao{
+    display: none;
+}
+.cabecalho-titulo-negrito{
+    font-weight: 700;
+}
+
+
 .menu-item-titulo {
 color: var(--laranja);
 }
